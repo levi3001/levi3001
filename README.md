@@ -1,4 +1,7 @@
-## Hi there 👋
+## Info 👋
+- My name is Nguyen Canh Hoang
+- 🔭 I’m currently working on computer vision, medical imaging and reasoning
+- 🌱 I’m currently learning at Stony Brook University
 
 <!--
 **levi3001/levi3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
